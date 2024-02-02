@@ -1,3 +1,5 @@
+namespace DIKUCanteen;
+
 public class Canteen{
   // Add properties and methods here
 

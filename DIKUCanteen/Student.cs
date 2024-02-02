@@ -1,3 +1,5 @@
+namespace DIKUCanteen;
+
 public class Student{
   // Add properties and methods here
   // blank method for taking cup
